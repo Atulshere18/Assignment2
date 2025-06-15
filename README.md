@@ -147,5 +147,5 @@ The backend exposes the following API endpoints:
   * **Response**: `{ message: String }`
   * **Description**: Delete a student by ID (admin only).
 
-
+---
 
