@@ -1,4 +1,3 @@
-Here's a detailed README for your **Student Management System** project. It includes information on the project setup, running instructions, API endpoints, and general usage.
 
 ---
 
