@@ -3,9 +3,5 @@ node_modules/
 npm-debug.log
 .env
 
-# React
-build/
 
-# VSCode
-.vscode/
 
